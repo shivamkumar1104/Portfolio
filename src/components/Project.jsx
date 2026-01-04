@@ -8,16 +8,16 @@ const Projects = () => {
       title: "Palm Oil Price Predictor", 
       desc: "ML model using LSTM networks to forecast market trends.", 
       tags: ["Python", "LSTM", "Pandas"],
-      githubLink: "https://github.com/yourusername/palm-oil-ml",
+      githubLink: "#",
       liveLink: "#" 
     },
-    { 
-      title: "SIH Import Simulator", 
-      desc: "AI-powered simulation tool for analyzing tariff impacts.", 
-      tags: ["AI/ML", "Python", "Data Science"],
-      githubLink: "#",
-      liveLink: "#"
-    },
+    // { 
+    //   title: "SIH Import Simulator", 
+    //   desc: "AI-powered simulation tool for analyzing tariff impacts.", 
+    //   tags: ["AI/ML", "Python", "Data Science"],
+    //   githubLink: "#",
+    //   liveLink: "#"
+    // },
     { 
       title: "Connexa Chatbot", 
       desc: "Intelligent career guidance bot for students.", 
